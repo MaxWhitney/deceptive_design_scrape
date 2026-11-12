@@ -1,10 +1,10 @@
 languageCode = "en-us"
-title = "Cupper"
-baseURL = "https://thepaciellogroup.github.io/cupper/"
+title = "Deceptive Design Scrape"
+baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
 
 [params]
-  description = "Documentation for the **Cupper** documentation builder, built with **Cupper** itself."
-  codePenUser = "Heydon"
+  description = "Deceptive Design Scrape in support of bringing the material back under the Superbloom umbrella using **Cupper** customization of Hugo."
+  codePenUser = "PenUserShouldNotBeTheRealHumanHeydon"
