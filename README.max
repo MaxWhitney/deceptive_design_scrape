@@ -1,3 +1,4 @@
+Running notes November 12, 2026 for setting up the hugo/cupper site for holding the Deceptive Design scrape in support of bringing those web assets back into the Superbloom umbrella. - Max Whitney Nov 12, 2026
 1. using the web interface at github.com made a fork of ThePacielloGroup/cupper repo into MaxWhitney/deceptive_design_scrape.
 2. Using desktop github tool cloned MaxWhitney/deceptive_design_scrape to local GitHub/deceptive_design_scrape, select the option to use the repo fork 'For my own purposes' not in order to 'To contribute to the parent project'.
 3. Clicked the 'Fetch origin' button to download a copy to local storage.
