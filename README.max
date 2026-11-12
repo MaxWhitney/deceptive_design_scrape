@@ -1,0 +1,106 @@
+1. using the web interface at github.com made a fork of ThePacielloGroup/cupper repo into MaxWhitney/deceptive_design_scrape.
+2. Using desktop github tool cloned MaxWhitney/deceptive_design_scrape to local GitHub/deceptive_design_scrape, select the option to use the repo fork 'For my own purposes' not in order to 'To contribute to the parent project'.
+3. Clicked the 'Fetch origin' button to download a copy to local storage.
+4. Checked it out ..... looks good in deceptive_design_scrape folder
+
+so now start repeating actions you did yesterday when you were working through the cupper install basics.
+
+1. So interesting!! the only terminal window where 
+    nvm -v
+    npm -v
+    node -v
+return values is the terminal in which I installed nvm and npm yesterday! This may be because this is the only terminal window I restarted post installation, so it's the only with the appropriate env variables. Opening a fresh term now to test that theory. Yep, that's it. The other two term windows I'm working in predate the install of nvm. Okay, back to cupper set up, following the steps at https://thepaciellogroup.github.io/cupper/patterns/installation/. 
+1. Check node and npm install:
+    nvm -v returns 0.41.0
+    npm -v returns 11.20.0
+    node -v returns v26.13.1
+2. ThePacielloGroup/cupper repo has already been forked and brought down locally into 'deceptive_design_scrape' folder/repo
+3. from deceptive_design_scrape/ run 'npm install'
+   note agin '12 vulnerabilities (3 moderate, 9 high)' is reported and I'm choosing not to attempt to patch because I will not be running node for any external user.
+4. from deceptive_design_scrape/ run 'npm run clean'
+5. modify the config.toml file
+   cat config.toml 
+        languageCode = "en-us"
+        title = "Deceptive Design Scrape"
+        baseURL = "https://example.org"
+        canonifyURLs = true
+        theme = "cupper"
+        publishDir = "docs"
+
+        [params]
+          description = "Deceptive Design Scrape in support of bringing the material back under the Superbloom umbrella using **Cupper** customization of Hugo."
+          codePenUser = "PenUserShouldNotBeTheRealHumanHeydon" 
+6. There is no static/manifest.json, so modifications made there 
+7. copy in logo.svg and placeholder png and svg to static/images
+
+Customize in the most minor way
+1. in content/_index.md set the title and minorly edit the content.
+2. in content/patterns/pattern.md set the title, no edits to the conten
+
+Build and view
+1. from deceptive_design_scrape run 'npm run serve'
+2. open the site using a browser at http://localhost:1313
+Success!
+
+Build to gitpages ....
+1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
+2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
+    Presently that url 404s
+3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
+    vi config.toml
+    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
+
+2. open the site using a browser at http://localhost:1313
+Success!
+
+Build to gitpages ....
+1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
+2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
+    Presently that url 404s
+3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
+    vi config.toml
+    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
+
+2. open the site using a browser at http://localhost:1313
+Success!
+
+Build to gitpages ....
+1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
+2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
+    Presently that url 404s
+3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
+    vi config.toml
+    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
+
+2. open the site using a browser at http://localhost:1313
+Success!
+
+Build to gitpages ....
+1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
+2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
+    Presently that url 404s
+3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
+    vi config.toml
+    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
+
+2. open the site using a browser at http://localhost:1313
+Success!
+
+Build to gitpages ....
+1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
+2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
+    Presently that url 404s
+3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
+    vi config.toml
+    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
+4. In the web interface of github.com, within the deceptive_design_scrape repo go to Settings > Pages 
+    leave 'Deploy from a branch' as the Source option
+    set Branch option to 'master' branch 'docs' directory and click Save
+and .... there's nothing there. 
+   looks like it just took a little time. I returned to the https://github.com/MaxWhitney/deceptive_design_scrape/settings/pages page and it had a new message that 'Your site is live at https://maxwhitney.github.io/deceptive_design_scrape. Clicked on 'Visit site' and sure as that there was a cupper website viewable there. It is however the default version, because I have not yet pushed my local modifications to github.
+
+Update github.io version:
+1. In desktop github tool commit changes, and then push to master.
+2. Wait 1 minutet
+3. View https://maxwhitney.github.io/deceptive_design_scrape. If there is no change, refresh or force refresh.
+Success!
