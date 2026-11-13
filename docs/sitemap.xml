@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/tags/another-tag/</loc>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/about/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/issues/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-dd/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/dd-subpage/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/installation/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/categories/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/print-version/</loc>
   </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/about/</loc>
-  </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/</loc>
-  </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/pattern/</loc>
-  </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/tags/example-tag/</loc>
-  </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/tags/tag1/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/tags/tag2/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/tags/</loc>
   </url>

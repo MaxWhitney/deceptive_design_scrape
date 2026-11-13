@@ -1,0 +1,1 @@
+The link you clicked on is a deadlink. There should be a note next to the clickable entity which indicates what the original link value was. 

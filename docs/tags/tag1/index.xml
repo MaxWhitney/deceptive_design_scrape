@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tag1 on Deceptive Design Scrape</title>
+		<link>https://maxwhitney.github.io/deceptive_design_scrape/tags/tag1/</link>
+		<description>Recent content in Tag1 on Deceptive Design Scrape</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://maxwhitney.github.io/deceptive_design_scrape/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/about/</guid>
+				<description>&lt;h2 id=&#34;collaborating-to-build-a-safer-more-empowering-online-world-for-everyone&#34;&gt;Collaborating to build a safer, more empowering online world for everyone.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://maxwhitney.github.io/deceptive_design_scrape/files/Tech_Policy_Design_Lab_Concept_Note.pdf&#34;&gt;Download Concept Note (234kb)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;alt-text-vision&#34;&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/eye-icon.svg&#34; alt=&#34;alt text&#34; title=&#34;Eye Icon&#34;&gt; Vision&lt;/h3&gt;&#xA;&lt;p&gt;Life today is digital. But far too often the tools and platforms we use create risks and cause harms for many of us. A better digital future is possible when there is constructive collaboration between the people shaping our technology landscape and those using it.&lt;/p&gt;&#xA;&lt;h3 id=&#34;alt-text-mission&#34;&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/moving-up-icon.svg&#34; alt=&#34;alt text&#34; title=&#34;Moving Up Icon&#34;&gt; Mission&lt;/h3&gt;&#xA;&lt;p&gt;We create space for policymakers, tech companies and researchers to learn directly from those affected by technology. Together, we create solutions that limit the worst of humanity and encourage the best online.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Deceptive Design Scrape holding space</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/</guid>
+				<description>&lt;p&gt;This is the Deceptive Design Scrape homepage. These are the contents of the &lt;code&gt;index.md&lt;/code&gt; file, found in your &lt;code&gt;content&lt;/code&gt; folder.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and &lt;a href=&#34;https://thepaciellogroup.github.io/cupper&#34;&gt;cupper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Automated Github Pages deployment&lt;/li&gt;&#xA;&lt;li&gt;Includes a single-page printable version suitable for PDF conversion&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;CONTENT FROM &lt;a href=&#34;https://techpolicydesignlab.webflow.io/index.html&#34;&gt;https://techpolicydesignlab.webflow.io/index.html&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;building-solutions-to-the-biggest-tech-challenges-facing-our-world&#34;&gt;Building solutions to the biggest tech challenges facing our world.&lt;/h2&gt;&#xA;&lt;p&gt;A space for policymakers, tech companies and web users to shape a safer, more empowering web.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Issues</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/issues/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/issues/</guid>
+				<description>&lt;h2 id=&#34;issues&#34;&gt;Issues&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/ogbv-feature-p-500.png&#34; alt=&#34;alt text&#34; title=&#34;Woman with locks at a laptop computer&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;helping-end-gender-based-abuse-online&#34;&gt;Helping End Gender-Based Abuse Online&lt;/h3&gt;&#xA;&lt;p&gt;The Tech Policy Design Lab pilot focused on creating solutions to counter the abuse of women online. This work led to a group of the world’s biggest tech platforms making specific commitments to take action and improve women’s safety on their platforms.&#xA;[Read more](link to pattern once built)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/sergey-zolkin-unsplash-feature-p-500.png&#34; alt=&#34;alt text&#34; title=&#34;Hands actively typing on a laptop keyboard&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Deceptive Design Pattern Folder</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-dd/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-dd/</guid>
+				<description>&lt;p&gt;This is the Deceptive Design pattern subfolder. These are the contents of the &lt;code&gt;deceptive-design.md&lt;/code&gt; file, found in the &lt;code&gt;content\patterns\deceptive-design&lt;/code&gt; folder.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;tick 1&lt;/li&gt;&#xA;&lt;li&gt;tick 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Test pattern link back to Issues on the top layer &lt;a class=&#34;pattern-link&#34; href=&#34;https://maxwhitney.github.io/deceptive_design_scrape/patterns/issues/&#34;&gt;&lt;svg class=&#34;bookmark&#34; aria-hidden=&#34;true&#34; viewBox=&#34;0 0 40 50&#34; focusable=&#34;false&#34;&gt; &lt;use xlink:href=&#34;#bookmark&#34;&gt;&lt;/use&gt; &lt;/svg&gt;Issues&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DD subpage</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/dd-subpage/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/dd-subpage/</guid>
+				<description>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;&#xA;&lt;p&gt;lorem ipsum&lt;/p&gt;&#xA;&lt;h3 id=&#34;alt-text-vision&#34;&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/eye-icon.svg&#34; alt=&#34;alt text&#34; title=&#34;Eye Icon&#34;&gt; Vision&lt;/h3&gt;&#xA;&lt;p&gt;lorem ipsum&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

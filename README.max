@@ -50,50 +50,6 @@ Build to gitpages ....
 3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
     vi config.toml
     baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
-
-2. open the site using a browser at http://localhost:1313
-Success!
-
-Build to gitpages ....
-1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
-2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
-    Presently that url 404s
-3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
-    vi config.toml
-    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
-
-2. open the site using a browser at http://localhost:1313
-Success!
-
-Build to gitpages ....
-1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
-2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
-    Presently that url 404s
-3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
-    vi config.toml
-    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
-
-2. open the site using a browser at http://localhost:1313
-Success!
-
-Build to gitpages ....
-1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
-2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
-    Presently that url 404s
-3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
-    vi config.toml
-    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
-
-2. open the site using a browser at http://localhost:1313
-Success!
-
-Build to gitpages ....
-1. Cupper created a /docs folder containing the last version of the site. I examined /docs and yep it looks good. 
-2. Theoretically the github pages version will be at: https://maxwhitney.github.io/deceptive_design_scrape
-    Presently that url 404s
-3. Cupper docs state: add this value to your config.toml file as the baseURL. So doing that now. 
-    vi config.toml
-    baseURL = "https://maxwhitney.github.io/deceptive_design_scrape"
 4. In the web interface of github.com, within the deceptive_design_scrape repo go to Settings > Pages 
     leave 'Deploy from a branch' as the Source option
     set Branch option to 'master' branch 'docs' directory and click Save
