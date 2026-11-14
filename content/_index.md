@@ -5,7 +5,7 @@ slug = "slug-content"
 weight = 1
 +++
 
-This is the Deceptive Design Scrape homepage. These are the contents of the `index.md` file, found in your `content` folder.
+This is the Deceptive Design Scrape homepage. These are the contents of the `index.md` file, found in the `content` folder.
 
 
 {{% ticks %}}
