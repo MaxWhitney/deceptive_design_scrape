@@ -7,7 +7,7 @@ weight = 11
 
 ## Acknowledgements
 
-## Organisations
+### Organisations
 
 The following organisations participated in our consultations and/or workshops, and we’re grateful for their contributions:
 
@@ -199,9 +199,33 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Utrecht University**](https://www.uu.nl/en)
 
-## Individuals 
+### Individuals 
 
-### ![alt text][eye-icon] Vision
- lorem ipsum
+**Adedolapo Adegoroye, Tech Hive Advisory**
+**Arda Awais, Identity 2.0**
+**Giulia Balestra, Localization Lab**
+**Trine Falbe, Falbe Consulting**
+**Babitha George, Quicksand Design Studio**
+**Colin M. Gray, Purdue University**
+**Chandni Gupta, Consumer Policy Research Centre**
+**Helen Harris, Amazon**
+**Jen King, Stanford Institute for Human-Centered Artificial Intelligence &amp; DarkPatternsTipLine.org**
+**Saumyaa Naidu**
+**Ridwan Oloyede, Tech Hive Advisory and Ikigai Innovation Initiative**
+**Nancy Reyes Flores, Accessibility Lab**
+**Sacha  Robehmed, Expectation State**
+**Saptak S**
+**Raashi  Saxena , Women Deliver**
+**Derek Slater**
+**Savena Surana, Identity 2.0**
+**Titiksha Vashist , The Pranava Institute**
+**Brian Waniewski, Harmony Labs**
+**Carrie Winfrey, Okthanks**
+**Andreas Wolters, Studio Llama**
 
-[eye-icon]: /images/eye-icon.svg "Eye Icon"
+### We need your help to build a trusted, rights-respecting online world.
+Thank you to everyone who contributed to this work through consultations, workshops and collaborative sessions. Read more about the [process](link TKTKTK), explore the [contributors](link TKTKTK], and the [strategies for change](link TKTKTK).
+
+Ready to [Get Involved](link TKTKTK)? Reach out to trusted-design@superbloom.design to get connected to the community taking this work forward.
+
+[Contact Us](link TKTKTK)
