@@ -65,7 +65,7 @@
 				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-resources/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-resources/</guid>
-				<description>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;&#xA;&lt;p&gt;lorem ipsum&lt;/p&gt;&#xA;&lt;h3 id=&#34;alt-text-vision&#34;&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/eye-icon.svg&#34; alt=&#34;alt text&#34; title=&#34;Eye Icon&#34;&gt; Vision&lt;/h3&gt;&#xA;&lt;p&gt;lorem ipsum&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;&#xA;&lt;h2 id=&#34;global-case-studies&#34;&gt;Global case studies&lt;/h2&gt;&#xA;&lt;p&gt;Case study overviews on the state of deceptive design from around the world.&lt;/p&gt;&#xA;&lt;h4 id=&#34;trusted-design-global-case-study-africa&#34;&gt;Trusted Design Global Case Study: Africa&lt;/h4&gt;&#xA;&lt;p&gt;Regional case study around the deceptive design context in Africa.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://maxwhitney.github.io/deceptive_design_scrape/files/TPDL_RegionalFocus_Africa_TechHive.pdf&#34;&gt;Read full study&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;trusted-design-global-case-study-india&#34;&gt;Trusted Design Global Case Study: India&lt;/h4&gt;&#xA;&lt;p&gt;Regional case study around the deceptive design context in India.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://maxwhitney.github.io/deceptive_design_scrape/files/TPDLDD_RegionalFocus_India.pdf&#34;&gt;Read full study&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;trusted-design-global-case-study-africa-sub-saharan&#34;&gt;Trusted Design Global Case Study: Africa (Sub-Saharan)&lt;/h4&gt;&#xA;&lt;p&gt;Regional case study around the deceptive design context in Sub Saharan Africa.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Strategies for Change</title>
@@ -73,13 +73,6 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-for-change/</guid>
 				<description>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;&#xA;&lt;p&gt;lorem ipsum&lt;/p&gt;&#xA;&lt;h3 id=&#34;alt-text-vision&#34;&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/eye-icon.svg&#34; alt=&#34;alt text&#34; title=&#34;Eye Icon&#34;&gt; Vision&lt;/h3&gt;&#xA;&lt;p&gt;lorem ipsum&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Installation</title>
-				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/installation/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/installation/</guid>
-				<description>&lt;p&gt;*&lt;em&gt;THIS IS BOILERPLATE FROM THE CUPPER PROJECT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cupper&lt;/strong&gt; is built using the static site engine, &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and NPM. The codebase is available to download on Github. Let&amp;rsquo;s get everything installed step-by-step.&lt;/p&gt;&#xA;&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;First you need to install Hugo globally.&lt;/p&gt;&#xA;&lt;h3 id=&#34;osx-users&#34;&gt;OSX users&lt;/h3&gt;&#xA;&lt;p&gt;If you are a Mac user and have &lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt; on your system, installing Hugo is simple:&lt;/p&gt;&#xA;&lt;pre class=&#34;cmd&#34;&gt;&lt;code&gt;brew install hugo&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;p&gt;Alternatively, you can manually &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;install Hugo from a package&lt;/a&gt;. You can verify the installation was successful by typing:&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

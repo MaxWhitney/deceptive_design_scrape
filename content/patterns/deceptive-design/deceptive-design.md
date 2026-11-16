@@ -42,7 +42,7 @@ Regional case study around the deceptive design context in Africa.
 ### Trusted Design Global Case Study: India
 Regional case study around the deceptive design context in India.
 
-[Read full study](files/TPDLDD_RegionalFocus_India.pdf)
+[Read full study](/files/TPDLDD_RegionalFocus_India.pdf)
 
 ### Trusted Design Global Case Study: Africa (Sub-Saharan)
 Regional case study around the deceptive design context in Sub Saharan Africa.
