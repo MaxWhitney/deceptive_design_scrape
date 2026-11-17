@@ -51,4 +51,3 @@ Learn more by exploring the [opportunities](TKTKTKTK pattern link to /strategies
 
 [crowdsource-banner]: /images/Banner_CrowdsourceReporting-p-500.jpeg "Crowdsource Reporting banner"
 [roadmap-diagram]: /images/WF_Roadmaps_Redesign_221020_V3_Crowdsourced.png "Diagram of roadmap for Crowdsource Reporting Tool."
-[placeholder-image]: /images/placeholder.png "placeholder image"

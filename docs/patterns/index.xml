@@ -96,6 +96,13 @@
 				<description>&lt;h2 id=&#34;create-a-crowdsourced-reporting-tool&#34;&gt;Create a Crowdsourced Reporting Tool&lt;/h2&gt;&#xA;&lt;p&gt;A reporting platform to make Deceptive Design more identifiable, reportable, and trackable for users and regulators.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/Banner_CrowdsourceReporting-p-500.jpeg&#34; alt=&#34;alt text&#34; title=&#34;Crowdsource Reporting banner&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;There is a lack of visibility regarding the harms associated with Deceptive Design. People on the web do not have a robust enough awareness to identify it, nor a pathway to report it. As a result, policy-makers and regulators lack sufficient evidence to better understand, illustrate, and respond to issues of Deceptive Design.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Strategies - Develop Tools for Evaluation and Accreditation</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-eval-and-accred/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-eval-and-accred/</guid>
+				<description>&lt;h2 id=&#34;develop-tools-for-evaluation-and-accreditation&#34;&gt;Develop Tools for Evaluation and Accreditation&lt;/h2&gt;&#xA;&lt;p&gt;A tool based on the Trusted Design Norms to assess the adherence to and impact of Trusted Design, as well as serve as the basis for regulations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/Banner_EvaluationAccreditation-p-500.jpeg&#34; alt=&#34;alt text&#34; title=&#34;Evaluation and Accreditation banner&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;The Trusted Design Norms will help establish a shared set of language and standards for Trusted Design but there is no unified method for evaluating, regulating, or incentivising companies to adopt them.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Strategies for Change</title>
 				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-for-change/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
