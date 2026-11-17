@@ -2,7 +2,7 @@
 title = "Get Involved"
 tags = ["tag1","tag2"]
 slug = "slug-get-involved"
-weight = 11
+weight = 80
 +++
 
 ## Get Involved

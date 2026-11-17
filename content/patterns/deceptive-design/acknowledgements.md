@@ -2,7 +2,7 @@
 title = "Acknowledgements"
 tags = ["tag1","tag2"]
 slug = "slug-acknowledgements"
-weight = 11
+weight = 100
 +++
 
 ## Acknowledgements

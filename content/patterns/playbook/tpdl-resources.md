@@ -2,7 +2,7 @@
 title = "Playbook - Further Resources"
 tags = ["tag1","tag2"]
 slug = "slug-further-resources"
-weight = 10
+weight = 40
 +++
 
 ## Further Resources 

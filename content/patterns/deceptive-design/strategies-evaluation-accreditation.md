@@ -2,7 +2,7 @@
 title = "Strategies - Develop Tools for Evaluation and Accreditation"
 tags = ["tag1","tag2"]
 slug = "slug-strategies-eval-and-accred"
-weight = 11
+weight = 75
 +++
 
 ## Develop Tools for Evaluation and Accreditation

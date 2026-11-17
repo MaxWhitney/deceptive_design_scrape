@@ -2,7 +2,7 @@
 title = "Playbook - Overview"
 tags = ["tag1","tag2"]
 slug = "slug-playbook"
-weight = 10
+weight = 30
 +++
 
 This is the Playbook pattern subfolder. These are the contents of the `playbook.md` file, found in the `content\patterns\playbook` folder.

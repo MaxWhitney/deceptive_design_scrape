@@ -2,7 +2,7 @@
 title = "Resources"
 tags = ["tag1","tag2"]
 slug = "slug-resources"
-weight = 11
+weight = 90
 +++
 
 ## Resources

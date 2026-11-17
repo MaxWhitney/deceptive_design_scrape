@@ -2,7 +2,7 @@
 title = "Strategies for Change"
 tags = ["tag1","tag2"]
 slug = "slug-strategies-for-change"
-weight = 11
+weight = 70
 +++
 
 ## Strategies for Change

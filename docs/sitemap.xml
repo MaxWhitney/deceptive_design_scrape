@@ -2,35 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/about/</loc>
-  </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/about/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/issues/</loc>
   </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-dd/</loc>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-playbook/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-further-resources/</loc>
   </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-playbook/</loc>
-  </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-acknowledgements/</loc>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-dd/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-background/</loc>
   </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/dd-subpage/</loc>
-  </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-get-involved/</loc>
-  </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-resources/</loc>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-for-change/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-coalition/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-crowdsource/</loc>
   </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-storytelling-campaign/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-trusted-design-norms/</loc>
+  </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-eval-and-accred/</loc>
   </url><url>
-    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-strategies-for-change/</loc>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-get-involved/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-resources/</loc>
+  </url><url>
+    <loc>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-acknowledgements/</loc>
   </url><url>
     <loc>https://maxwhitney.github.io/deceptive_design_scrape/categories/</loc>
   </url><url>

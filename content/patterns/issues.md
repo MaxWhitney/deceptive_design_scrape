@@ -1,7 +1,7 @@
 +++
 title = "Issues"
 tags = ["tag1","tag2"]
-weight = 2
+weight = 20
 +++
 
 ## Issues

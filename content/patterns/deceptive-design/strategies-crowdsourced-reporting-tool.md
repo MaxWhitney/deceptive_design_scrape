@@ -2,7 +2,7 @@
 title = "Strategies - Crowdsourced Reporting Tool"
 tags = ["tag1","tag2"]
 slug = "slug-strategies-crowdsource"
-weight = 11
+weight = 72
 +++
 
 ## Create a Crowdsourced Reporting Tool

@@ -2,7 +2,7 @@
 title = "Background"
 tags = ["tag1","tag2"]
 slug = "slug-background"
-weight = 11
+weight = 60
 +++
 
 ## Background

@@ -2,7 +2,7 @@
 title = "Deceptive Design Pattern Folder - Overview"
 tags = ["tag1","tag2"]
 slug = "slug-dd"
-weight = 10
+weight = 50
 +++
 
 This is the Deceptive Design pattern subfolder. These are the contents of the `deceptive-design.md` file, found in the `content\patterns\deceptive-design` folder.

@@ -2,7 +2,7 @@
 title = "Strategies - Coalition"
 tags = ["tag1","tag2"]
 slug = "slug-strategies-coalition"
-weight = 11
+weight = 71
 +++
 
 ## Build a Coalition to Mobilise Change
