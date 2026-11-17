@@ -40,6 +40,20 @@
 				<description>&lt;p&gt;This is the Deceptive Design pattern subfolder. These are the contents of the &lt;code&gt;deceptive-design.md&lt;/code&gt; file, found in the &lt;code&gt;content\patterns\deceptive-design&lt;/code&gt; folder.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CONTENT FROM &lt;a href=&#34;https://techpolicydesignlab.webflow.io/deceptive-design/overview&#34;&gt;https://techpolicydesignlab.webflow.io/deceptive-design/overview&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;deceptive-design-moving-towards-trusted-design-patterns&#34;&gt;Deceptive Design: Moving Towards Trusted Design Patterns&lt;/h2&gt;&#xA;&lt;p&gt;Deceptive designs are built into website or app interfaces and can manipulate us into making choices we may not want to make. This Tech Policy Design Lab is exploring ways to curb these widespread practices and move us towards more trusted design.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Playbook - Further Resources</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-further-resources/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-further-resources/</guid>
+				<description>&lt;h2 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h2&gt;&#xA;&lt;p&gt;Tech Policy Design Labs bring together governments, companies and civil society in a collaborative environment and use human-centered design thinking to develop policies, processes, or products at the intersection of technology and human rights that come with commitments that are measurable and accountable.&lt;/p&gt;&#xA;&lt;h3 id=&#34;existing-toolkits-that-are-accessible-to-global-audiences&#34;&gt;Existing Toolkits that are Accessible to Global Audiences&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://airtable.com/appftS8mfXuQCWvhE/shrGMmjLhmkRjfz2i/tblLluPJrFxq0Fi2p?layout=card&#34;&gt;Airtable of Existing Toolkits&lt;/a&gt; &amp;lt;- original page has the airtable embedded; Hugo/cupper doesn&amp;rsquo;t enable airtable embeds easily, so only the link is ported over&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Playbook - Overview</title>
+				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-playbook/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://maxwhitney.github.io/deceptive_design_scrape/patterns/playbook/slug-playbook/</guid>
+				<description>&lt;p&gt;This is the Playbook pattern subfolder. These are the contents of the &lt;code&gt;playbook.md&lt;/code&gt; file, found in the &lt;code&gt;content\patterns\playbook&lt;/code&gt; folder.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CONTENT FROM &lt;a href=&#34;https://techpolicydesignlab.webflow.io/playbook&#34;&gt;https://techpolicydesignlab.webflow.io/playbook&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-policy-design-playbook&#34;&gt;Tech Policy Design Playbook&lt;/h2&gt;&#xA;&lt;p&gt;Tech Policy Design Labs bring together governments, companies and civil society in a collaborative environment and use human-centered design thinking to develop policies, processes, or products at the intersection of technology and human rights that come with commitments that are measurable and accountable.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://maxwhitney.github.io/deceptive_design_scrape/images/What-is-a-TPDL-p-1080.jpeg&#34; alt=&#34;alt text&#34; title=&#34;What is Tech Policy Design Lab banner&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Acknowledgements</title>
 				<link>https://maxwhitney.github.io/deceptive_design_scrape/patterns/deceptive-design/slug-acknowledgements/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
