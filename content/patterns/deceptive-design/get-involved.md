@@ -27,7 +27,7 @@ Join a growing coalition of diverse stakeholders promoting Trusted Design Norms 
 * Funders to support national-level implementations.
 {{% /ticks %}}
 
-[Learn more.](TKTKTKTK pattern link to /strategies-for-change/coalition)
+Learn more. [{{<pattern "Strategies - Coalition">}}]
 {{</expandable>}}
 
 {{< expandable label="Develop a crowdsourced reporting tool" level="2" >}}
@@ -41,7 +41,8 @@ We need your help to develop and mobilize a crowdsourced reporting tool to impro
 * Journalists and advocates committed to using the tool to uncover, investigate, and report on instances of Deceptive Design.
 {{% /ticks %}}
 
-[Learn more.](TKTKTK pattern link to strategies-for-change/crowdsourced-reporting-tool)
+Learn more. [{{<pattern "Strategies - Crowdsourced Reporting Tool">}}]
+
 {{</expandable>}}
 
 {{< expandable label="Participate in a storytelling campaign" level="2" >}}
@@ -53,7 +54,7 @@ We need you to share your personal experiences of Deceptive Design to drive a gl
 * Journalists and advocates to spread awareness and promote stories .
 {{% /ticks %}}
 
-[Learn more.](TKTKTK pattern link to strategies-for-change/storytelling-campaign)
+Learn more. [{{<pattern "Strategies - Storytelling Campaign">}}]
 {{</expandable>}}
 
 ## Help us build new norms
@@ -70,7 +71,7 @@ We need you to help drive adoption of our Trusted Design Norms, a new framework 
 * Legislators, elected officials, and regulators to craft jurisdictional policy to tackle Deceptive Design.
 {{% /ticks %}}
 
-[Learn more.](TKTKTK pattern link to strategies-for-change/trusted-design-norms)
+Learn more. [{{<pattern "Strategies - Trusted Design Norms">}}]
 {{</expandable>}}
 
 {{< expandable label="Develop tools for evaluation and accreditation" level="2" >}}
@@ -82,7 +83,7 @@ We need you to help develop tools and frameworks for evaluating and accrediting 
 * Researchers to continue assessing existing frameworks to identify success factors and ways to evolve and adapt the Trusted Design Norms.
 {{% /ticks %}}
 
-[Learn more.](TKTKTK pattern link to strategies-for-change/evaluation-accreditation)
+Learn more. [{{<pattern "Strategies - Develop Tools for Evaluation and Accreditation">}}]
 {{</expandable>}}
 
 {{< expandable label="How can I avoid Deceptive Design in my work?" level="2" >}}

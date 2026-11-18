@@ -4,16 +4,13 @@ tags = ["tag1","tag2"]
 slug = "slug-dd"
 weight = 50
 +++
-
-This is the Deceptive Design pattern subfolder. These are the contents of the `deceptive-design.md` file, found in the `content\patterns\deceptive-design` folder.
-
 **CONTENT FROM https://techpolicydesignlab.webflow.io/deceptive-design/overview**
 
 ## Deceptive Design: Moving Towards Trusted Design Patterns
 
 Deceptive designs are built into website or app interfaces and can manipulate us into making choices we may not want to make. This Tech Policy Design Lab is exploring ways to curb these widespread practices and move us towards more trusted design.
 
-[Explore the Opportunities](link to Strategies for Change pattern TKTKTK)
+**Explore the Opportunities** [{{<pattern "Strategies for Change">}}]
 
 ### What are deceptive designs?
 
@@ -29,7 +26,7 @@ Deceptive Design is a human rights issue. It limits consent and autonomy online,
 ![alt text][recommendations-diagram]
 
 ## Who is most affected?
-[Resources -->]((link to Strategies for Change pattern TKTKTK)
+**Resources -->** [{{<pattern "Resources">}}]
 
 Vulnerable populations are not only more susceptible to the risks of Deceptive Design, they are often actively targeted. Examples include the elderly and those with lower levels of education or digital literacy. Populations with lower income and lack of access to mental health services may be disproportionately affected by potential harms.
 
@@ -68,9 +65,15 @@ Experts and advocates came together through the Tech Policy Design Lab process t
 * Develop and adopt **Trusted Design Norms**, a framework that provides industry guidance for promoting trust, limiting deceptive practices, and respecting human rights.
 * Develop an **Evaluation & Accreditation System**, a Trusted Design assessment tool to serve as a basis for regulation while driving accountability for tech companies.
 {{% /ticks %}}
-[Learn more](/files/deadlink.txt) <- deadlink to https://techlab.webfoundation.org/deceptive-design/strategies-for-change#ibuilding-norms
+[Learn more](/files/deadlink.txt) <- deadlink to https://techlab.webfoundation.org/deceptive-design/opportunities#building-norms
 
-** Original page ends with links to Blog entries of interest**
+**Original page has a section with links to three Blog entries of interest**
+
+Thank you to everyone who contributed to this work through consultations, workshops and collaborative sessions. Read more about the **process** [{{<pattern "Background" >}}], explore the **contributors** [{{<pattern "Acknowledgements">}}], and the **strategies for change** [{{<pattern "Strategies for Change">}}]. 
+
+Ready to **Get Involved** [{{<pattern "Get Involved">}}]? Reach out to trusted-design@superbloom.design to get connected to the community taking this work forward.
+
+
 
 [recommendations-diagram]: /images/RecommendationsDiagram.png "Diagram of five part recommendation"
 [open-in-new-icon]: /images/open_in_new_white_24dp.svg "Open in new window icon"

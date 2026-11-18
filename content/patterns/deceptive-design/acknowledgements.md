@@ -11,7 +11,7 @@ weight = 100
 
 The following organisations participated in our consultations and/or workshops, and we’re grateful for their contributions:
 
-[**18F**](https://18f.gs.gov)
+[**18F**](https://18f.gs.gov) deadlink
 
 [**500 Global**](https://500.co/)
 
@@ -23,7 +23,7 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**African Academic Network on Internet Policy**](https://aanoip.org/#:~:text=The%20African%20Academic%20Network%20on,and%20regulatory%20regime%20in%20Africa.)
 
-[**Alliance for Affordable Internet**](https://a4ai.org/)
+[**Alliance for Affordable Internet**](https://a4ai.org/) deadlink though the hostname is good the destination page is a debian default install page
 
 [**Amazon**](https://www.aboutamazon.com/)
 
@@ -37,11 +37,11 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Center for Democracy and Technology**](https://cdt.org/)
 
-[**Center for Financial Inclusion - ACCION International**](https://www.accion.org/program_teams/center-for-financial-inclusion)
+[**Center for Financial Inclusion - ACCION International**](https://www.accion.org/program_teams/center-for-financial-inclusion) deadlink though the domain is good the specific page generates a 404 missing page error
 
 [**Centre for Internet &amp; Society**](https://cis-india.org/)
 
-[**Commission Nationale de l&#x27;Informatique et des Libertés (CNIL), France**](https://www.cnil.fr/en/home)
+[**Commission Nationale de l&#x27;Informatique et des Libertés (CNIL), France**](https://www.cnil.fr/en/home) likely not a deadlink, landing page stated undergoing maintenance when tested Nov 18 2026
 
 [**Competition Authority Of Kenya**](https://cak.go.ke/)
 
@@ -59,7 +59,7 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Deloitte**](https://www2.deloitte.com/uk/en/explore/home.html)
 
-[**Design Beku**](https://designbeku.in/)
+[**Design Beku**](https://designbeku.in/) deadlink generates a "Domain registration has expired." namecheap page
 
 [**DESIGN ETHICALLY**](https://www.designethically.com/)
 
@@ -75,7 +75,7 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Federal Trade Commission**](https://www.ftc.gov/)
 
-[**Feminist Design Lab**](MISSING LINK TKTKTKT) 
+**Feminist Design Lab** deadlink no link appeared in the original
 
 [**Forever Beta**](https://forever-beta.com/)
 
@@ -115,7 +115,7 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Meedan**](https://meedan.com/)
 
-[**Memo**](https://www.wearememo.ca/for-individuals)
+[**Memo**](https://www.wearememo.ca/for-individuals) deadlink
 
 [**Mercedes-Benz**](https://www.mercedes-benz.com/en/)
 
@@ -141,7 +141,7 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Oxford Internet Institute, University of Oxford**](https://www.oii.ox.ac.uk/)
 
-[**Pakistan Telecommunication Authority**](https://www.pta.gov.pk/en)
+[**Pakistan Telecommunication Authority**](https://www.pta.gov.pk/en) deadlink page wasn't responding when tested Nov 18 2026
 
 [**Panoptykon Foundation**](https://en.panoptykon.org/)
 
@@ -157,7 +157,7 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Quicksand**](http://quicksand.co.in/)
 
-[**Servicio Nacional del Consumidor (SERNAC), Chile**](https://www.sernac.cl/portal/619/w3-article-39603.html)
+[**Servicio Nacional del Consumidor (SERNAC), Chile**](https://www.sernac.cl/portal/619/w3-article-39603.html) deadlink page wasn't responding when tested Nov 18 2026
 
 [**SlashRoots Foundation - Reimagining Caribbean Society**](https://www.slashroots.org/)
 
@@ -169,7 +169,8 @@ The following organisations participated in our consultations and/or workshops, 
 
 [**Tech Hive Advisory**](https://techhiveadvisory.africa/)
 
-[**Tech Policy Design Centre, The Australian National University**](https://www.anu.edu.au/research/research-initiatives/tech-policy-design-centre#:~:text=The%20Tech%20Policy%20Design%20Centre,industry%2C%20government%20and%20civil%20society.)
+[**Tech Policy Design Centre, The Australian National University**](https://www.anu.edu.au/research/research-initiatives/tech-policy-design-centre#:~:text=The%20Tech%20Policy%20Design%20Centre,industry%2C%20government%20and%20civil%20society.) deadlink link goes to a page which now requires authentication in order to access. Domain is still good.
+
 
 [**Tech Policy Press**](https://techpolicy.press/)
 
@@ -224,8 +225,10 @@ The following organisations participated in our consultations and/or workshops, 
 **Andreas Wolters, Studio Llama**
 
 ### We need your help to build a trusted, rights-respecting online world.
-Thank you to everyone who contributed to this work through consultations, workshops and collaborative sessions. Read more about the [process](link TKTKTK), explore the [contributors](link TKTKTK], and the [strategies for change](link TKTKTK).
+Thank you to everyone who contributed to this work through consultations, workshops and collaborative sessions. Read more about the **process** [{{<pattern "Background" >}}], explore the **contributors** [{{<pattern "Acknowledgements">}}], and the **strategies for change** [{{<pattern "Strategies for Change">}}]. 
 
-Ready to [Get Involved](link TKTKTK)? Reach out to trusted-design@superbloom.design to get connected to the community taking this work forward.
+Ready to **Get Involved** [{{<pattern "Get Involved">}}]? Reach out to trusted-design@superbloom.design to get connected to the community taking this work forward.
 
-[Contact Us](link TKTKTK)
+_Above links were deadlinks pointing to the corresponding pages at "http://techlab.webfoundation.org/deceptive-design/"_
+
+[Contact Us](mailto:trusted-design@superbloom.design) <-- button with a mailto link in the original

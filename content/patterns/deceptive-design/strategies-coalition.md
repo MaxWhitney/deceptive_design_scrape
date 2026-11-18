@@ -29,12 +29,12 @@ _Roadmap diagram for a coalition to address deceptive design._
 > “It is important to create more spaces where we can ask these questions, discuss the challenges and create solid reference frameworks that could contribute to ethical design practices.” - Advocacy Organization
 
 ### Impact
-The coalition will provide a structure for addressing the globally pervasive impacts of Deceptive Design. By raising awareness and encouraging adoption of the [Trusted Design Norms](TKTKTKTK pattern link to /strategies-for-change/trusted-design-norms), it can mobilise global change on multiple levels, from policies to market practices.
+The coalition will provide a structure for addressing the globally pervasive impacts of Deceptive Design. By raising awareness and encouraging adoption of the **Trusted Design Norms** [{{<pattern "Strategies - Trusted Design Norms">}}], it can mobilise global change on multiple levels, from policies to market practices.
 
 ### We need your help to build a trusted, rights-respecting online world.
-Learn more by exploring the [opportunities](TKTKTKTK pattern link to /strategies-for-change) identified as strategies for change. Ready to do more? Explore ways to get involved.
+Learn more by exploring the **opportunities** [{{<pattern "Strategies for Change">}}] identified as strategies for change. Ready to do more? Explore ways to get involved.
  
-[Get involved](TKTKTKTK pattern link to /get-involved)
+{{< pattern "Get Involved" >}} <-- button to Get Involved page
 
 [coalition-banner]: /images/Banner_Coalition-p-500.png "Coalition banner"
 [roadmap-diagram]: /images/WF_Roadmaps_Redesign_221020_V3_Overview.png "Diagram of roadmap for a coalition to address deceptive design."

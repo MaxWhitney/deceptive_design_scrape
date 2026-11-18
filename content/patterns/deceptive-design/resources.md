@@ -32,7 +32,7 @@ Regional case study around the deceptive design context in South West Asia and N
 
 ## Further reading
 
-** -->Links to blog entries appears here in the original<-- **
+**Links to blog entries appears here in the original**
 
 ## Additional Resources 
 [Trusted Design Norms Recommendations](https://airtable.com/shrzgr7Hv4J50zttl)

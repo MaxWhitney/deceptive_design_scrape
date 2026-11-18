@@ -32,15 +32,15 @@ The Norms developed within the TPDL should be viewed as a “prototype” to be 
 
 Explore the [recommendations](https://airtable.com/invite/l?inviteId=invgyfiTs32llrLaU&inviteToken=3d7376a6c9f6b7e41aa7b496ef22c43b2166409e40b95a037da12d4d3ca28f34&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts).
 
-Embed of [Recommendations and Tips](https://airtable.com/embed/app185ywjVuL0fFpr/shrzgr7Hv4J50zttl/tblaLmLopQFqBWULg?layout=card&viewControls=on) airtable appears here in the original.
+**Embed of [Recommendations and Tips](https://airtable.com/embed/app185ywjVuL0fFpr/shrzgr7Hv4J50zttl/tblaLmLopQFqBWULg?layout=card&viewControls=on) airtable appears here in the original.**
 
 ### Impact
 The Trusted Design Norms can act as a new standard that provides clear and broadly applicable guidance both for global policy and UI/UX design. The Norms could support an emphasis on Deceptive Design awareness through the framework of human rights, as well as bridge existing conversations on consumer protection and social justice.
 
 ### We need your help to build a trusted, rights-respecting online world.
-Learn more by exploring the [opportunities](TKTKTKTK pattern link to /strategies-for-change) identified as strategies for change. Ready to do more? Explore ways to get involved.
+Learn more by exploring the **opportunities** [{{<pattern "Strategies for Change">}}] identified as strategies for change. Ready to do more? Explore ways to get involved.
  
-[Get involved](TKTKTKTK pattern link to /get-involved)
+{{< pattern "Get Involved" >}} <-- button to Get Involved page
 
 [trusted-banner]: /images/Banner_TrustedDesign-p-500.jpeg "Trusted Design banner"
 [crowdsource-banner]: /images/Banner_CrowdsourceReporting-p-500.jpeg "Crowdsource Reporting banner"

@@ -36,8 +36,8 @@ An open call for stories could amass a catalogue of diverse and global Deceptive
 A public awareness campaign could generate visibility about the impacts of Deceptive Design and build demand for trusted design practices. Funding could allow the campaign to grow and spread virally. Calling attention to Deceptive Design and creating a more informed global public would help disincentivize the practices among companies who wish to earn their users’ trust.
 
 ### We need your help to build a trusted, rights-respecting online world.
-Learn more by exploring the [opportunities](TKTKTKTK pattern link to /strategies-for-change) identified as strategies for change. Ready to do more? Explore ways to get involved.
+Learn more by exploring the **opportunities** [{{<pattern "Strategies for Change">}}] identified as strategies for change. Ready to do more? Explore ways to get involved.
  
-[Get involved](TKTKTKTK pattern link to /get-involved)
+{{< pattern "Get Involved" >}} <-- button to Get Involved page
 
 [storytelling-banner]: /images/Banner_Storytelling-p-500.jpeg "Storytelling banner"

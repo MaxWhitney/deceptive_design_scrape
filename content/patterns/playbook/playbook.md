@@ -41,7 +41,8 @@ Dig into our regional experts analysis of how they used TPDL to incorporate a gl
 ### Further Resources
 Tech policy design labs (TPDLs) can address a wide range of challenges that intersect technology and policy; here are a few examples
 
-[Read more](TKTKTKTK pattern link to /playbook/tdpl-resources)
+**Read more** {{<pattern "Playbook - Further Resources">}}
+
 
 ## Background
 Web Foundation has now run two Tech Policy Design Labs (TPDL) and within those explored numerous ways of designing interventions to create a more equitable web. Building on the learning process from the OGBV TPDL, Superbloom has been working with four contributors and 8 advisors from the global majority to develop a playbook to support organizations and teams interested in using the TPDL model to develop interventions in issues areas, such as OGBV. The playbook is available in the form of a website so that various stakeholders can better explore and utilize the playbook to build a more equitable web and engage with efforts to combat OGBV. 

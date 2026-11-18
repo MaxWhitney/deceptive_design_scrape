@@ -6,5 +6,5 @@ theme = "cupper"
 publishDir = "docs"
 
 [params]
-  description = "Deceptive Design Scrape in support of bringing the material back under the Superbloom umbrella using **Cupper** customization of Hugo."
+  description = "Deceptive Design Scrape using **cupper** customization of Hugo in support of bringing the material back under the Superbloom umbrella."
   codePenUser = "PenUserShouldNotBeTheRealHumanHeydon"

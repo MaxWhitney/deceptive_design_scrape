@@ -45,9 +45,10 @@ A more detailed strategy for the development and expansion of this tool was devi
 Collective reporting can increase the detection of Deceptive Design and make issues more visible to policymakers and regulators. An easy-to-use reporting process can make venues for action visible for people on the web and eventually lead to pathways for resolution.
 
 ### We need your help to build a trusted, rights-respecting online world.
-Learn more by exploring the [opportunities](TKTKTKTK pattern link to /strategies-for-change) identified as strategies for change. Ready to do more? Explore ways to get involved.
+Learn more by exploring the **opportunities** [{{<pattern "Strategies for Change">}}] identified as strategies for change. Ready to do more? Explore ways to get involved.
  
-[Get involved](TKTKTKTK pattern link to /get-involved)
+{{< pattern "Get Involved" >}} <-- button to Get Involved page
+
 
 [crowdsource-banner]: /images/Banner_CrowdsourceReporting-p-500.jpeg "Crowdsource Reporting banner"
 [roadmap-diagram]: /images/WF_Roadmaps_Redesign_221020_V3_Crowdsourced.png "Diagram of roadmap for Crowdsource Reporting Tool."

@@ -34,8 +34,8 @@ Considerations for an eventual accreditation system:
 As the harms of Deceptive Design become more well articulated, a framework and accreditation process for organisations can provide guidance and accountability to drive Trusted Design practices. The successful structuring, positioning, and early adoption of such a system by a group of industry leaders could help inspire a tipping point toward broader transformation, adherence and adoption towards Trusted Design practices.
 
 ### We need your help to build a trusted, rights-respecting online world.
-Learn more by exploring the [opportunities](TKTKTKTK pattern link to /strategies-for-change) identified as strategies for change. Ready to do more? Explore ways to get involved.
+Learn more by exploring the **opportunities** [{{<pattern "Strategies for Change">}}] identified as strategies for change. Ready to do more? Explore ways to get involved.
  
-[Get involved](TKTKTKTK pattern link to /get-involved)
+{{< pattern "Get Involved" >}} <-- button to Get Involved page
 
 [evaluation-banner]: /images/Banner_EvaluationAccreditation-p-500.jpeg "Evaluation and Accreditation banner"
