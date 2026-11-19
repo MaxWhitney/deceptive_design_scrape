@@ -10,13 +10,13 @@ weight = 20
 ### Helping End Gender-Based Abuse Online
 The Tech Policy Design Lab pilot focused on creating solutions to counter the abuse of women online. This work led to a group of the world’s biggest tech platforms making specific commitments to take action and improve women’s safety on their platforms.
 
-[Read more](/files/deadlink.txt) destination page not scraped
+[Read more]() <- Destination page was not scraped
 
 ![alt text][DD-issue-image]
 ### Deceptive Design: Moving Toward Trusted Design Patterns
 Deceptive designs are built into website or app interfaces and can manipulate us into making choices we may not want to make. This Tech Policy Design Lab is exploring ways to curb these widespread practices and move us towards more trusted design.
 
-**Read more** [{{<pattern "Deceptive Design Pattern Folder - Overview">}}]
+**Read more** [{{<pattern "Deceptive Design - Overview">}}]
  
 ### Get involved
 

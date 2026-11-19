@@ -6,7 +6,7 @@ weight = 70
 +++
 
 ## Strategies for Change
-The following strategies for Trusted Design were developed by a team of experts and advocates through the [Tech Policy Design Lab](/files/deadlink.txt) <- _deadlink to https://techlab.webfoundation.org/deceptive-design/overview_ (TPDL). They focus on two areas: mobilising diverse changemakers and creating new industry standards.
+The following strategies for Trusted Design were developed by a team of experts and advocates through the **Tech Policy Design Lab** [{{<pattern "Deceptive Design - Overview">}}] (TPDL). They focus on two areas: mobilising diverse changemakers and creating new industry standards.
 
 ### Mobilising for change
 Through these strategies, diverse stakeholders across a range of contexts and industries will come together to change the conversation and advocate for Trusted Design.

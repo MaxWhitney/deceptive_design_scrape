@@ -202,27 +202,27 @@ The following organisations participated in our consultations and/or workshops, 
 
 ### Individuals 
 
-**Adedolapo Adegoroye, Tech Hive Advisory**
-**Arda Awais, Identity 2.0**
-**Giulia Balestra, Localization Lab**
-**Trine Falbe, Falbe Consulting**
-**Babitha George, Quicksand Design Studio**
-**Colin M. Gray, Purdue University**
-**Chandni Gupta, Consumer Policy Research Centre**
-**Helen Harris, Amazon**
-**Jen King, Stanford Institute for Human-Centered Artificial Intelligence &amp; DarkPatternsTipLine.org**
-**Saumyaa Naidu**
-**Ridwan Oloyede, Tech Hive Advisory and Ikigai Innovation Initiative**
-**Nancy Reyes Flores, Accessibility Lab**
-**Sacha  Robehmed, Expectation State**
-**Saptak S**
-**Raashi  Saxena , Women Deliver**
-**Derek Slater**
-**Savena Surana, Identity 2.0**
-**Titiksha Vashist , The Pranava Institute**
-**Brian Waniewski, Harmony Labs**
-**Carrie Winfrey, Okthanks**
-**Andreas Wolters, Studio Llama**
+**Adedolapo Adegoroye, Tech Hive Advisory**  
+**Arda Awais, Identity 2.0**  
+**Giulia Balestra, Localization Lab**  
+**Trine Falbe, Falbe Consulting**  
+**Babitha George, Quicksand Design Studio**  
+**Colin M. Gray, Purdue University**  
+**Chandni Gupta, Consumer Policy Research Centre**  
+**Helen Harris, Amazon**  
+**Jen King, Stanford Institute for Human-Centered Artificial Intelligence &amp; DarkPatternsTipLine.org**  
+**Saumyaa Naidu**  
+**Ridwan Oloyede, Tech Hive Advisory and Ikigai Innovation Initiative**  
+**Nancy Reyes Flores, Accessibility Lab**  
+**Sacha  Robehmed, Expectation State**  
+**Saptak S**  
+**Raashi  Saxena , Women Deliver**  
+**Derek Slater**  
+**Savena Surana, Identity 2.0**  
+**Titiksha Vashist , The Pranava Institute**  
+**Brian Waniewski, Harmony Labs**  
+**Carrie Winfrey, Okthanks**  
+**Andreas Wolters, Studio Llama**  
 
 ### We need your help to build a trusted, rights-respecting online world.
 Thank you to everyone who contributed to this work through consultations, workshops and collaborative sessions. Read more about the **process** [{{<pattern "Background" >}}], explore the **contributors** [{{<pattern "Acknowledgements">}}], and the **strategies for change** [{{<pattern "Strategies for Change">}}]. 

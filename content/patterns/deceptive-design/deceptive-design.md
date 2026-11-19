@@ -1,5 +1,5 @@
 +++
-title = "Deceptive Design Pattern Folder - Overview"
+title = "Deceptive Design - Overview"
 tags = ["tag1","tag2"]
 slug = "slug-dd"
 weight = 50
@@ -21,7 +21,7 @@ It can be found on travel booking sites, gaming platforms, and e-commerce sites.
 **Trusted Design,** by contrast, respects people’s human rights. It prioritises people, not platforms, and empowers them to make informed choices.
 
 ### Why does it matter?
-Deceptive Design is a human rights issue. It limits consent and autonomy online, particularly for vulnerable populations. Harms can include financial loss, invasions of privacy, and negative impacts on mental health. [One study](ihttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3431205) showed that people subjected to Deceptive Design were twice as likely to enroll in a service of dubious value.
+Deceptive Design is a human rights issue. It limits consent and autonomy online, particularly for vulnerable populations. Harms can include financial loss, invasions of privacy, and negative impacts on mental health. [One study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3431205) showed that people subjected to Deceptive Design were twice as likely to enroll in a service of dubious value.
 
 ![alt text][recommendations-diagram]
 

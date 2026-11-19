@@ -5,10 +5,6 @@ slug = "slug-playbook"
 weight = 30
 +++
 
-This is the Playbook pattern subfolder. These are the contents of the `playbook.md` file, found in the `content\patterns\playbook` folder.
-
-**CONTENT FROM https://techpolicydesignlab.webflow.io/playbook**
-
 ## Tech Policy Design Playbook
 
 Tech Policy Design Labs bring together governments, companies and civil society in a collaborative environment and use human-centered design thinking to develop policies, processes, or products at the intersection of technology and human rights that come with commitments that are measurable and accountable.
